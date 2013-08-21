@@ -1,4 +1,4 @@
-###Purpose for this repo:
+##Purpose for this repo:
 I need/would like a VM which will run on two diff local environments.  
 
 Which will include LAMP/Drupal friendly stuff: Git, Drush, Sublime more probably that I've forgotten.
