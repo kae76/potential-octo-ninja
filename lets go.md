@@ -7,8 +7,9 @@ I plan to have the 'VM' on a disk and use the native 'host machines' to run the 
 looking to try and utilise Vagrant/PHPhet
 
 *I am cross referencing (heavily) these Repos/Gists/Blogs:*
-
+* Kiwimind help for setting up an Environment
 https://github.com/kae76/stealing-kiwiminds-mind  
+* Therobyouknow d.o https://drupal.org/node/2055947
 https://github.com/kae76/yolo-octo-dubstep  
 https://gist.github.com/kae76/8aa7b7dd5ae0d3325873 (shh its secret!)  
 
