@@ -9,10 +9,10 @@ looking to try and utilise Vagrant/PHPhet
 *I am cross referencing (heavily) these Repos/Gists/Blogs:*
 * Kiwimind help for setting up an Environment
 https://github.com/kae76/stealing-kiwiminds-mind  
-* Therobyouknow [d.o experiment](https://drupal.org/node/2055947)using Vagrant PuPHPet
-https://github.com/kae76/yolo-octo-dubstep  
-https://gist.github.com/kae76/8aa7b7dd5ae0d3325873 (shh its secret!)  
-
+* Therobyouknow's [experiment](https://drupal.org/node/2055947)using Vagrant [PuPHPet](https://puphpet.com/) etc...  
+https://github.com/kae76/yolo-octo-dubstep 
+My [Quickstart](https://drupal.org/project/quickstart) / [Open Atrium](https://drupal.org/project/openatrium) set up malarky (I'm not happy wit this process which is why I am doing this https://gist.github.com/kae76/8aa7b7dd5ae0d3325873 (shh its secret!)  
+* Lauras's set up v useful
 http://pingv.com/blog/precisely-drupal-setting-up-ubuntu-12-04-precise-pangolin-lamp-stack-for-your-drupal-7-site  
 http://hybridlogic.co.uk/2011/07/setting-up-ubuntu-server-in-virtualbox-for-a-headless-lamp-server-in-mac-os-x-lion  
 http://stackoverflow.com/questions/1580596/how-do-i-make-git-ignore-mode-changes-chmod   
