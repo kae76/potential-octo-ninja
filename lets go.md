@@ -40,4 +40,5 @@ Two machines each with [Virtual Box 4.2.16 r86992](https://www.virtualbox.org/wi
 * 4GB  
 * 64-bit  
 
-**The VM disk is:** 32GB SD HC card formatted to fat32
+**The VM disk:** 
+32GB SD HC card formatted to fat32
