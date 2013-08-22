@@ -6,8 +6,10 @@ Which will include LAMP/Drupal friendly stuff: Git, Drush, Sublime more probably
 I plan to have the 'VM' on a disk and use the native 'host machines' to run the Virtual box.
 looking to try and utilise Vagrant/PHPhet
 
-**I am cross referencing (heavily) these Repos/Gists/Blogs:**
+**I am cross referencing these Repos/Gists/Blogs:**
 
+*  TESTING THIS!
+--> https://github.com/MFoster/instantdrupal  
 * [Kiwimind](https://drupal.org/user/749470) help for setting up an environment:  
 --> https://github.com/kae76/stealing-kiwiminds-mind  
 * [Therobyouknow](https://drupal.org/user/197207)'s [experiment](https://drupal.org/node/2055947) using Vagrant [PuPHPet](https://puphpet.com/) etc...  
