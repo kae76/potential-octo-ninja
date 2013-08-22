@@ -23,3 +23,6 @@ looking to try and utilise Vagrant/PHPhet
 --> http://hybridlogic.co.uk/2011/07/setting-up-ubuntu-server-in-virtualbox-for-a-headless-lamp-server-in-mac-os-x-lion  
 * Some permission fun games:  
 --> http://stackoverflow.com/questions/1580596/how-do-i-make-git-ignore-mode-changes-chmod   
+
+
+* StackOverflow on getting LAMP Vagrant on Windows 7 --> http://stackoverflow.com/questions/14608875/getting-a-lamp-stack-running-on-a-vagrant-vm-under-windows-7-host-full-instru
