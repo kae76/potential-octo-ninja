@@ -26,9 +26,19 @@ looking to try and utilise Vagrant/PHPhet
 
 ###Starting from scratch:
 
-Two machines each with [Virtual Box 4.2.16 r86992](https://www.virtualbox.org/wiki/Downloads) installed.
+Each machine has installed:  
+
+* [Virtual Box 4.2.16 r86992](https://www.virtualbox.org/wiki/Downloads)  
+ * Command Line tools
+* [Vagrant 1.2.7](http://downloads.vagrantup.com/tags/v1.2.7)
+* [Sublime Text 2.0.2 (64-bit)](http://www.sublimetext.com/2)
+ * Drupal Pugins
+ * FYI I needed to revert my Sublime install back to a clean state this was helpful: http://www.sublimetext.com/docs/2/revert.html
+* [Git 1.8.3.4](http://git-scm.com/downloads)
+
 
 **Machine one:**  
+
 * MBP (13-inch, Mid 2009)  
 * OSX 10.8.4   
 * 2.2GHz INTEL Core 2 Duo  
@@ -36,6 +46,7 @@ Two machines each with [Virtual Box 4.2.16 r86992](https://www.virtualbox.org/wi
 * 64-bit  
 
 **Machine two:**  
+
 * Acer Aspire 721 (11 inch, bought 2009)  
 * Windows 7 Home Premium Service pk1  
 * AMD Athlon II Neo K145 Processor 1.8GHz  
