@@ -29,12 +29,12 @@ looking to try and utilise Vagrant/PHPhet
 Each machine has installed:  
 
 * [Virtual Box 4.2.16 r86992](https://www.virtualbox.org/wiki/Downloads)  
- * Command Line tools
+ * [Command Line tools](http://andunix.net/info/virtualbox/cli)
 * [Vagrant 1.2.7](http://downloads.vagrantup.com/tags/v1.2.7)
 * [Sublime Text 2.0.2 (64-bit)](http://www.sublimetext.com/2)
- * Drupal Pugins
+ * [Drupal Pugins](http://www.phase2technology.com/blog/sublime-text-2-for-drupal-development)
  * I needed to revert my install back to a clean state this was helpful: http://www.sublimetext.com/docs/2/revert.html
-* [Git 1.8.3.4](http://git-scm.com/downloads)
+* [Git 1.8.2](http://git-scm.com/downloads)
 
 
 **Machine one:**  
